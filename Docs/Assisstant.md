@@ -15,12 +15,10 @@ import Listen
 ### Setting Variables:
 ```python
 api_key = ""
-assist_id = "asst_QNsVazhOzwC34ZkTTTc4JsG7"
-thread_id = "thread_96nvgztISY3doL4vgO3LCDNG"
+assist_id = "Your assisstant ID"
+thread_id = "Your thread ID"
 ```
-- `api_key`: Your OpenAI API key (should be a secret, but in this case, it's empty).
-- `assist_id`: ID of the assistant.
-- `thread_id`: ID of the conversation thread.
+
 
 ### Setting Environment Variable:
 ```python
