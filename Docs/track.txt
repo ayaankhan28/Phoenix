@@ -1,0 +1,10 @@
+{
+    "name": "Ayaan khan",
+    "email": "ayaan.khan2812@gmail.com",
+    "address": "Stanza living lisbon house ,electronic city bangalore,karnataka",
+    "phone": "9343282801",
+    "age": "19",
+    "assignment reminder": "complete all the assignment of the scalar",
+    "codeforces reminder": "today we have  codeforces contest on 2:30"
+
+}
