@@ -1,10 +1,4 @@
-api_key = "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"
-
-
-
-
-
-
+api_key = "*****"
 
 
 import os
